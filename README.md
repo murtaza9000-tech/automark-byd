@@ -17,7 +17,8 @@ We provide this information as a guide, but **we offer no guarantees and accept 
 # BYD – Enable ADB & Install Apps  
 Credits -> https://github.com/ahmada3mar/BYD
 
-!Disclamer : 
+Video guide : https://youtu.be/mHJF5INGvFE
+ 
 This repository provides a step-by-step guide on how to enable ADB (Android Debug Bridge) and Wireless ADB on BYD cars running firmware versions released after 2407.  
 
 In the latest firmware updates, BYD has disabled standard developer tools, preventing users from installing APK files. This guide will help you bypass these restrictions and sideload apps onto your vehicle's system.  
